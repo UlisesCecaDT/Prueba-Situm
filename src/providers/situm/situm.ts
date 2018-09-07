@@ -1,2 +1,2 @@
-export const USER_EMAIL = 'ulises.ceca@dialogotecnologico.com';
-export const USER_API_KEY = 'a8c30f1aa3777554ecf761416528b824a12f24fd2e8e7e785a2811351662bc15';
+export const USER_EMAIL = 'pochospitales@sanitas.es';
+export const USER_API_KEY = '07179a83b47aebb69bd8b6ead28efce3c99180a44b8f59719446be0796fde44b';
