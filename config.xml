@@ -92,5 +92,5 @@
     </plugin>
     <plugin name="situm-cordova-plugin-official" spec="^1.8.0" />
     <plugin name="cordova.plugins.diagnostic" spec="^4.0.8" />
-    <engine name="android" spec="^6.4.0" />
+    <engine name="android" spec="6.4.0" />
 </widget>
